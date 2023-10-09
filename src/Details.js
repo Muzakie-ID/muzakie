@@ -97,18 +97,18 @@ export const eduDetails = [
 export const techStackDetails = {
   html: html,
   css: css,
-  js: js,
-  react: react,
-  redux: redux,
-  sass: sass,
-  tailwind: tailwind,
-  bootstrap: bootstrap,
+//   js: js,
+//   react: react,
+//   redux: redux,
+//   sass: sass,
+//   tailwind: tailwind,
+//   bootstrap: bootstrap,
   vscode: vscode,
-  postman: postman,
-  npm: npm,
-  git: git,
+//   postman: postman,
+//   npm: npm,
+//   git: git,
   github: github,
-  figma: figma,
+//   figma: figma,
 };
 
 // Enter your Project Details here
