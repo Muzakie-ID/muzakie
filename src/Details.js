@@ -28,10 +28,10 @@ import projectImage1 from "./assets/projects/project1.jpg";
 // import projectImage6 from "./assets/projects/project6.jpg";
 
 // Logos
-export const logos = {
-  logogradient: logogradient,
-  logo: logo,
-};
+// export const logos = {
+//   logogradient: logogradient,
+//   logo: logo,
+// };
 
 // Enter your Personal Details here
 export const personalDetails = {
