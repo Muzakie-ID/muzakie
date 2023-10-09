@@ -89,7 +89,7 @@ export const eduDetails = [
     Company: "SMK BATIK PERBAIK",
     Location: "Purworejo, Purworejo, Purworejo",
     Type: "Full Time",
-    Duration: "Jan 2023 - Present",
+    Duration: "Agust 2023 - Present",
   },
 ];
 
