@@ -3,7 +3,8 @@
 // import logogradient from "./assets/logo.svg";
 // import logo from "./assets/logo2.svg";
 // Profile Image
-import profile from "./assets/profile.gif";
+// import profile from "./assets/profile.gif";
+import profile from "https://scontent.fjog3-1.fna.fbcdn.net/v/t39.30808-6/293519483_567907958455733_3015760928700379595_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=a2f6c7&_nc_eui2=AeHntxDP8Ger3CjObrgt2LIStF4bwehrQ360XhvB6GtDfh1ZyTAbgkK_D7Ci9BDUyEpcmb1XVqnkATVppjm8ObAv&_nc_ohc=_iNNnJYBbJsAX-Q214P&_nc_oc=AQm5fwlQ-n1N40lvMEouYS5ibc-3sBhaLVZ1Ro8DI_jH4IwHRaBmktwlqrhgXDpufjA&_nc_ht=scontent.fjog3-1.fna&oh=00_AfBxlNfPi2r34sIs_wwHn3h12YmUdodJTbuIo_MfavpfEw&oe=65291E45";
 // Tech stack images
 import html from "./assets/techstack/html.png";
 import css from "./assets/techstack/css.png";
