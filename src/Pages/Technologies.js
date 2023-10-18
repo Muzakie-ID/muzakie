@@ -7,6 +7,8 @@ function Technologies() {
     css,
     vscode,
     github,
+    npm,
+    git,
   } = techStackDetails;
   return (
     <main className="container mx-auto max-width pt-10 pb-20 ">
@@ -30,6 +32,8 @@ function Technologies() {
       <section className="grid grid-cols-4 md:grid-cols-5 lg:grid-cols-6 items-center gap-10 pt-6">
         <img src={vscode} title="Visual Studio Code" alt="" />
         <img src={github} title="Github" alt="Github" />
+        <img src={git} title="Git" alt="Git" />
+        <img src={npm} title="NPM" alt="NPM" />
       </section>
     </main>
   );
