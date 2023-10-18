@@ -105,8 +105,8 @@ export const techStackDetails = {
 //   bootstrap: bootstrap,
   vscode: vscode,
 //   postman: postman,
-//   npm: npm,
-//   git: git,
+   npm: npm,
+   git: git,
   github: github,
 //   figma: figma,
 };
