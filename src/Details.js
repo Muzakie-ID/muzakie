@@ -86,6 +86,13 @@ export const eduDetails = [
   },
   {
     Position: "Student",
+    Company: "SMK TI KARTIKA CINDEKIA",
+    Location: "Baledono, Purworejo, Purworejo",
+    Type: "Full Time",
+    Duration: "-",
+  },
+  {
+    Position: "Student",
     Company: "SMK BATIK PERBAIK",
     Location: "Purworejo, Purworejo, Purworejo",
     Type: "Full Time",
